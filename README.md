@@ -1,11 +1,12 @@
 # "I Love You" em uma linha
 
-Este repositório contém um simples algoritmo em uma única linha em Python que utiliza a biblioteca Tkinter para criar uma janela que exibe a mensagem "I Love You". 
+Este repositório contém um algoritmo simples em uma única linha em Python que utiliza a biblioteca Tkinter para criar uma janela que imprimi um coração com a plavara "I Love You" (arte ASCII).
+
 ![I Love You](screenshot/iloveyou.png)
 
 ## Funcionamento
 
-O algoritmo utiliza o poder do Tkinter para criar uma interface gráfica básica. A mensagem "I Love You" é gerada por meio de um algoritmo de desenho de texto artístico em uma única linha. Quando o botão "I Love ❤️ Yo" é clicado, a mensagem é exibida na janela de texto.
+O algoritmo utiliza o poder do Tkinter para criar uma interface gráfica básica. A mensagem "I Love You" e um coração com um nome (ASCII Art) são gerados por meio de um algoritmo de desenho de texto artístico em uma única linha. Quando o botão "I Love ❤️ You" é clicado, a mensagem é exibida na janela de texto.
 
 ## Demonstração no TikTok
 
@@ -24,7 +25,6 @@ Este algoritmo foi compartilhado no TikTok como parte de um vídeo curto de prog
 
 2. Execute o script Python `main.py`.
 
-3. Clique no botão "I Love You" para ver a mensagem.
+3. Clique no botão "I Love You" para ver a mensagem e o coração com um nome.
 
-Sinta-se à vontade para explorar, personalizar e contribuir o código conforme desejar.
-
+Sinta-se à vontade para explorar, personalizar e contribuir com o código conforme desejar.
