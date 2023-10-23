@@ -1,4 +1,4 @@
-# Algoritmo "I Love You" com Tkinter
+# "I Love You" em uma linha
 
 Este repositório contém um simples algoritmo em uma única linha em Python que utiliza a biblioteca Tkinter para criar uma janela que exibe a mensagem "I Love You". 
 ![I Love You](screenshot/iloveyou.png)
@@ -11,7 +11,7 @@ O algoritmo utiliza o poder do Tkinter para criar uma interface gráfica básica
 
 Este algoritmo foi compartilhado no TikTok como parte de um vídeo curto de programação criativa. Você pode assistir ao vídeo para ver o funcionamento do algoritmo em ação e aprender mais sobre o desenvolvimento dele.
 
-[Assista ao vídeo no TikTok](https://www.tiktok.com/usuario/seuusuario/linkdovideo)
+[Assista ao vídeo no TikTok](https://www.tiktok.com/@shortcodevideo/video/7089938349762301189)
 
 ## Como Usar
 
@@ -26,6 +26,5 @@ Este algoritmo foi compartilhado no TikTok como parte de um vídeo curto de prog
 
 3. Clique no botão "I Love You" para ver a mensagem.
 
-Sinta-se à vontade para explorar e personalizar o código conforme desejar.
+Sinta-se à vontade para explorar, personalizar e contribuir o código conforme desejar.
 
-Espero que este algoritmo lhe traga diversão e inspiração para suas próprias criações. Divirta-se programando!
