@@ -25,6 +25,6 @@ Este algoritmo foi compartilhado no TikTok como parte de um vídeo curto de prog
 
 2. Execute o script Python `main.py`.
 
-3. Clique no botão "I Love You" para ver a mensagem e o coração com um nome.
+3. Clique no botão "I Love ❤️ You" para ver a mensagem e o coração com um nome.
 
 Sinta-se à vontade para explorar, personalizar e contribuir com o código conforme desejar.
